@@ -20,7 +20,6 @@
   <img style="width: 420px;" alt="Kacper Nowaczyk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=now4czyk&show_icons=true&theme=dark"/>
 </div>
 <br>
-<img alt="Kacper Nowaczyk's Github Stats" src="https://activity-graph.herokuapp.com/graph?username=Now4czyk&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&custom_title=My%20Activity%20Graph"/>
 
 <br>
 <h2 align="center">🚀 Languages that I know</h2>
