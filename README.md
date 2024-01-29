@@ -9,7 +9,7 @@
 
 - 👨‍💻 **Frontend Developer** at [**TEB Akademia**](https://www.linkedin.com/company/teb-akademia),
 
-- 💡 Currently learning Data Structues & Algorithm,
+- 💡 Currently learning Algorithms and advanced aspects of React,
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Now4czyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kacper-nowaczyk-167816216)
 
