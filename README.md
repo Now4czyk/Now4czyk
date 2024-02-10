@@ -5,7 +5,7 @@
 <br>
 <h2 align="center">👨 About me:</h2>
 
-- 👨‍🎓  I'm a Automation and Robotics student at the Poznan University of Technology,
+- 👨‍🎓 **Bachelor's degree** (Engineering) **graduate** in Automation Control and Robotics from the Poznan University of Technology,
 
 - 👨‍💻 **Frontend Developer** at [**TEB Akademia**](https://www.linkedin.com/company/crsw-merito/mycompany/) with **2 years** of working experience,
 
