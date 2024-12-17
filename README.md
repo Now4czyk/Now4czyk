@@ -7,7 +7,7 @@
 
 - 👨‍🎓 **Bachelor's degree** (Engineering) **graduate** in Automation Control and Robotics from the Poznan University of Technology,
 
-- 👨‍💻 **Frontend Developer** at [**TEB Akademia**](https://www.linkedin.com/company/crsw-merito/mycompany/) with **2 years** of working experience,
+- 👨‍💻 **Frontend Developer** at [**TEB Akademia**](https://www.linkedin.com/company/crsw-merito/mycompany/) with **3 years** of working experience,
 
 - ⏲️ In my free time, I listen to **podcasts** 🎧, read **tech articles** 📰 and run 🏃,
 
